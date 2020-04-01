@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Abdul Karim Altamash Shaikh
 
 # TECHNOLOGY COLOPHON
 
